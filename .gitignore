@@ -3,7 +3,6 @@
 .ipynb_checkpoints
 *.ipynb_meta/
 .ipynb_meta
-*.ipynb
 
 # Ambiente Conda
 .conda/
